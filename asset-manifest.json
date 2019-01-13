@@ -1,13 +1,13 @@
 {
-  "main.css": "/scottie-schneider/tic_tac_toe/static/css/main.2997a100.chunk.css",
-  "main.js": "/scottie-schneider/tic_tac_toe/static/js/main.90a8f270.chunk.js",
-  "main.js.map": "/scottie-schneider/tic_tac_toe/static/js/main.90a8f270.chunk.js.map",
-  "static/js/1.ec8eef1e.chunk.js": "/scottie-schneider/tic_tac_toe/static/js/1.ec8eef1e.chunk.js",
-  "static/js/1.ec8eef1e.chunk.js.map": "/scottie-schneider/tic_tac_toe/static/js/1.ec8eef1e.chunk.js.map",
-  "runtime~main.js": "/scottie-schneider/tic_tac_toe/static/js/runtime~main.781ece70.js",
-  "runtime~main.js.map": "/scottie-schneider/tic_tac_toe/static/js/runtime~main.781ece70.js.map",
-  "static/css/main.2997a100.chunk.css.map": "/scottie-schneider/tic_tac_toe/static/css/main.2997a100.chunk.css.map",
-  "index.html": "/scottie-schneider/tic_tac_toe/index.html",
-  "precache-manifest.f0ffb46fa4e558b79edd4629d7f36ec2.js": "/scottie-schneider/tic_tac_toe/precache-manifest.f0ffb46fa4e558b79edd4629d7f36ec2.js",
-  "service-worker.js": "/scottie-schneider/tic_tac_toe/service-worker.js"
+  "main.css": "/tic_tac_toe/static/css/main.2997a100.chunk.css",
+  "main.js": "/tic_tac_toe/static/js/main.90a8f270.chunk.js",
+  "main.js.map": "/tic_tac_toe/static/js/main.90a8f270.chunk.js.map",
+  "static/js/1.ec8eef1e.chunk.js": "/tic_tac_toe/static/js/1.ec8eef1e.chunk.js",
+  "static/js/1.ec8eef1e.chunk.js.map": "/tic_tac_toe/static/js/1.ec8eef1e.chunk.js.map",
+  "runtime~main.js": "/tic_tac_toe/static/js/runtime~main.47126480.js",
+  "runtime~main.js.map": "/tic_tac_toe/static/js/runtime~main.47126480.js.map",
+  "static/css/main.2997a100.chunk.css.map": "/tic_tac_toe/static/css/main.2997a100.chunk.css.map",
+  "index.html": "/tic_tac_toe/index.html",
+  "precache-manifest.728ba0a8d5526f0946003094dd1c1e97.js": "/tic_tac_toe/precache-manifest.728ba0a8d5526f0946003094dd1c1e97.js",
+  "service-worker.js": "/tic_tac_toe/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/scottie-schneider/tic_tac_toe/precache-manifest.f0ffb46fa4e558b79edd4629d7f36ec2.js"
+  "/tic_tac_toe/precache-manifest.728ba0a8d5526f0946003094dd1c1e97.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/scottie-schneider/tic_tac_toe/index.html", {
+workbox.routing.registerNavigationRoute("/tic_tac_toe/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
